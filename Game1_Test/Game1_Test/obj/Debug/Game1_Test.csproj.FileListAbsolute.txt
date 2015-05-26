@@ -4,3 +4,9 @@ C:\Users\Jason\Desktop\College\Sem4\Programming3\Game1_Test\Game1_Test\bin\Game1
 C:\Users\Jason\Desktop\College\Sem4\Programming3\Game1_Test\Game1_Test\bin\Game1_Test.pdb
 C:\Users\Jason\Desktop\College\Sem4\Programming3\Game1_Test\Game1_Test\obj\Debug\Game1_Test.dll
 C:\Users\Jason\Desktop\College\Sem4\Programming3\Game1_Test\Game1_Test\obj\Debug\Game1_Test.pdb
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\bin\Game1_Test.dll.config
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\bin\Game1_Test.dll
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\bin\Game1_Test.pdb
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\obj\Debug\Game1_Test.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\obj\Debug\Game1_Test.dll
+C:\Users\Jason\Desktop\GIT\COMP397-ALL\COMP397-ALL\Game1_Test\Game1_Test\obj\Debug\Game1_Test.pdb
